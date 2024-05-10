@@ -1,0 +1,14 @@
+ 1.hi ,2 repositories
+2.local,clone
+3.local - it is in laptop
+clone - it is updated in github
+create a new folder named git hub explanation in local disk d
+4.1st create repositories . i have created sample repo .
+now copy the link and type git clone and paste the link.
+5.now the git is cloned
+6.move to this pc - local disk d - git hub explanation - samplerepo is there
+7.after cloning , go to visual studio and  click open folder move to git hub explanation -samplerepo
+8.create a new file name it as dummy.txt now after typing something in file
+you can see file name as untracked. it is unstaged condition
+9.To become staged go to window powershell it is like command prompt
+how to go to window powershell? go to pc - local disk d - git hub explanation - samplerepo
