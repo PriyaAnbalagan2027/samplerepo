@@ -1,4 +1,4 @@
- 1.hi ,2 repositories
+1. create repositories
 2.local,clone
 3.local - it is in laptop
 clone - it is updated in github
